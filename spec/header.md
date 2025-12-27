@@ -5,7 +5,7 @@ AnonCreds Specification
 
 **Latest Draft:**
 
-[https://github.com/hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
+[https://github.com/anoncreds/anoncreds-spec](https://github.com/anoncreds/anoncreds-spec)
 
 **Editors:**
 
@@ -17,8 +17,8 @@ AnonCreds Specification
 
 **Participate:**
 
-~ [GitHub repo](https://github.com/hyperledger/anoncreds-revocation)
-~ [Commit history](https://github.com/hyperledger/anoncreds-revocation/commits/main)
+~ [GitHub repo](https://github.com/anoncreds/anoncreds-revocation)
+~ [Commit history](https://github.com/anoncreds/anoncreds-revocation/commits/main)
 ~ [Discord](https://discord.gg/hYmBNhTFY9)
 
 ------------------------------------

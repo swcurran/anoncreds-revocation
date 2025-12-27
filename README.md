@@ -12,10 +12,10 @@ need to define what the requirements are for a sufficiently privacy-preserving
 and secure scheme. The purpose of this repository is to capture and document
 those requirements.
 
-[AnonCreds v1.0 Revocation Scheme]: https://github.com/hyperledger/indy-hipe/blob/main/text/0011-cred-revocation/README.md
+[AnonCreds v1.0 Revocation Scheme]: https://github.com/hyperledger-indy/indy-hipe/blob/main/text/0011-cred-revocation/README.md
 
 - This work is being conducted under the [Community Specification License v1.0](1._Community_Specification_License-v1.md)
-- The draft specification can be found here: [https://hyperledger.github.io/anoncreds-revocation/](https://anoncreds.github.io/anoncreds-revocation/)
+- The draft specification can be found here: [https://anoncreds.github.io/anoncreds-revocation/](https://anoncreds.github.io/anoncreds-revocation/)
 - The source specification documents can be found here: [Specification Source](/spec)
 
 This repository contains guidelines for [contributing](#contributions) to the specification and submitting [edits via GitHub pull requests](/EditingTheSpec.md).
