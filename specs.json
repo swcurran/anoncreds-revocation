@@ -20,12 +20,12 @@
         "informative_references.md",
         "acknowledgements_authors.md"
       ],
-      "logo": "https://raw.githubusercontent.com/hyperledger/anoncreds-spec/main/spec/images/logo/hl_anoncreds_colour.svg",
-      "logo_link": "https://github.com/hyperledger/anoncreds-revocation",
+      "logo": "https://raw.githubusercontent.com/anoncreds/anoncreds-spec/main/spec/images/logo/hl_anoncreds_colour.svg",
+      "logo_link": "https://github.com/anoncreds/anoncreds-revocation",
       "katex": true,
       "source": {
         "host": "github",
-        "account": "hyperledger",
+        "account": "anoncreds",
         "repo": "anoncreds-revocation"
       }
     }

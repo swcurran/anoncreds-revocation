@@ -24,7 +24,7 @@ The VDR for storing [[ref: Schema]]s, [[ref: Credential Definition]]s, [[ref: Re
 The VDR shall allow only permitted entities to issue AnonCreds based on AnonCreds objects related to it.  
 
 #### Security Requirements at DIDs and Related Keys
-It is recommended to follow the best practices of decentralized key management system designs and architectures. For example, an option for publishing AnonCreds is the Hyperledger Indy, which are built on the following [DKMS Design and Architecture](https://github.com/hyperledger/indy-sdk/blob/main/docs/design/005-dkms/DKMS%20Design%20and%20Architecture%20V3.md) 
+It is recommended to follow the best practices of decentralized key management system designs and architectures. For example, an option for publishing AnonCreds is the Hyperledger Indy, which are built on the following [DKMS Design and Architecture](https://github.com/hyperledger-indy/indy-sdk/blob/main/docs/design/005-dkms/DKMS%20Design%20and%20Architecture%20V3.md) 
 
 ### Envelope
 AnonCreds should be packed in a message envelope that can fulfill properties such as authenticity, integrity, confidentiality, and non-repudiation of the message. A message can have these properties with signature and encryption algorithms. It is recommended to choose signature and encryption algorithms that are state of the art and offer such security. For example, Hyperledger Indy utilizes DIDComm v1 as message envelope for exchanging AnonCreds between [[ref: issuer]]s, [[ref: holder]]s, and [[ref: verifier]]s. 
